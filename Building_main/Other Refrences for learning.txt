@@ -1,0 +1,23 @@
+Other References:
+ 
+BERT score - https://arxiv.org/pdf/1904.09675
+BLEAU
+METEOR
+ROGUE - https://aclanthology.org/W04-1013.pdf
+
+JURY Lib (using multiple eval metrics simultaneously) - https://arxiv.org/pdf/2310.02040
+
+1. https://learn.microsoft.com/en-us/azure/ai-services/language-service/summarization/custom/how-to/test-evaluate
+2. https://cookbook.openai.com/examples/evaluation/how_to_eval_abstractive_summarization
+3. https://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
+4. https://blog.paperspace.com/implement-seq2seq-for-text-summarization-keras/
+
+Blog:
+1. https://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html
+1. https://nlp.stanford.edu/pubs/see2017get.pdf
+![](http://abigailsee.com/img/pointer-gen.png)
+
+
+- https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/
+- https://blog.paperspace.com/introduction-to-seq2seq-models/
+- https://blog.paperspace.com/implement-seq2seq-for-text-summarization-keras/
